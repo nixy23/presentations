@@ -1,6 +1,6 @@
 | Date | Place | Title |Prestentation Video|
 | ---| --- | --- | --- |
-| 2024/10/19 | BSidesTO 2024 | [Adventures in data labelling - From Concepts to Implementation in Microsoft Purview](https://github.com/nixy23/bsidesto2024)| [Video](https://www.youtube.com/watch?v=Mq45195xbJY&list=PLdsR3i12KS96A9_SF5O2Xs6dZ469GHZ0O&index=6) |
+| 2024/10/19 | BSidesTO 2024 | [Adventures in data labelling - From Concepts to Implementation in Microsoft Purview](https://github.com/nixy23/bsidesto2024)| [Video](https://www.youtube.com/watch?v=Mq45195xbJY) |
 | 2024/10/11 | Hackfest 2024 | [Adventures in data labelling - From Concepts to Implementation in Microsoft Purview](https://github.com/nixy23/hackfest2024)| |
 | 2023/10/21 | BSidesTO 2023 | [Unconditionally Conditional - Strong Authentication in Microsoft Entra ID](https://github.com/nixy23/bsidesto2023)| [Video](https://www.youtube.com/watch?v=nh-gWgfJrEA) |
 | 2023/10/13 | Hackfest 2023 | [Unconditionally Conditional - Strong Authentication in Microsoft Entra ID](https://github.com/nixy23/hackfest2023)| [Video](https://www.youtube.com/watch?v=5BAN3gwnfrM) |
