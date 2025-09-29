@@ -1,6 +1,6 @@
 | Date | Place | Title |Prestentation Video|
 | ---| --- | --- | --- |
-| 2025/10/17 | Hackfest 2025 | [Hunting the Ghost in the Shell - Case studies of Insider Risk](https://github.com/nixy23/hackfet2025)| |
+| 2025/10/17 | Hackfest 2025 | [Hunting the Ghost in the Shell - Case studies of Insider Risk](https://github.com/nixy23/hackfest2025)| |
 | 2024/10/19 | BSidesTO 2024 | [Adventures in data labelling - From Concepts to Implementation in Microsoft Purview](https://github.com/nixy23/bsidesto2024)| [Video](https://www.youtube.com/watch?v=Mq45195xbJY) |
 | 2024/10/11 | Hackfest 2024 | [Adventures in data labelling - From Concepts to Implementation in Microsoft Purview](https://github.com/nixy23/hackfest2024)| |
 | 2023/10/21 | BSidesTO 2023 | [Unconditionally Conditional - Strong Authentication in Microsoft Entra ID](https://github.com/nixy23/bsidesto2023)| [Video](https://www.youtube.com/watch?v=nh-gWgfJrEA) |
