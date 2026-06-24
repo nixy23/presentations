@@ -1,5 +1,6 @@
 | Date | Place | Title |Prestentation Video|
 | ---| --- | --- | --- |
+| 2026/06/24 | TASK June 2026 | [Let's talk about trust](https://github.com/nixy23/task2026)| |
 | 2025/10/17 | Hackfest 2025 | [Hunting the Ghost in the Shell - Case studies of Insider Risk](https://github.com/nixy23/hackfest2025)| |
 | 2024/10/19 | BSidesTO 2024 | [Adventures in data labelling - From Concepts to Implementation in Microsoft Purview](https://github.com/nixy23/bsidesto2024)| [Video](https://www.youtube.com/watch?v=Mq45195xbJY) |
 | 2024/10/11 | Hackfest 2024 | [Adventures in data labelling - From Concepts to Implementation in Microsoft Purview](https://github.com/nixy23/hackfest2024)| |
