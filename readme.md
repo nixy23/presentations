@@ -1,5 +1,6 @@
 | Date | Place | Title |Prestentation Video|
 | ---| --- | --- | --- |
+| 2025/10/30 | Hackfest 2026 | [Cloud Security Posture Management (CSPM) on a Shoestring](https://github.com/nixy23/hackfest2026)| |
 | 2026/10/03 | BSidesTO 2026 | [Hunting the Ghost in the Shell - Case studies of Insider Risk](https://github.com/nixy23/bsidesto2026)| |
 | 2026/06/24 | TASK June 2026 | [Let's talk about trust](https://github.com/nixy23/task2026)| |
 | 2025/10/17 | Hackfest 2025 | [Hunting the Ghost in the Shell - Case studies of Insider Risk](https://github.com/nixy23/hackfest2025)| |
